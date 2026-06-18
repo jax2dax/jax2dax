@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Frontend-leaning Full Stack Developer focused on building SaaS applications with TypeScript, React, Next.js, Node.js, and PostgreSQL.<br><br>📊 Built a Lead Intelligence Platform featuring analytics dashboards, visitor tracking, authentication, billing systems, and API integrations.<br><br>🤖 Developed AI-powered applications including voice mentor platforms with real-time conversational tutoring.<br><br>🏆 TSA Nevada State Webmaster Champion (1st Place)<br><br>🎓 High School Student pursuing software engineering and full-stack development.<br><br>💡 Currently exploring scalable SaaS architecture, analytics systems, AI integrations, and modern web technologies.
+🚀 Frontend-leaning Full Stack Developer focused on building SaaS applications with TypeScript, React, Next.js, Node.js, and PostgreSQL.<br><br>📊 Built a Lead Intelligence Platform featuring analytics dashboards, visitor tracking, authentication, billing systems, and API integrations.<br><br>🤖 Developed AI-powered applications including voice mentor platforms with real-time conversational tutoring.<br><br>🏆 TSA Nevada State Webmaster Champion (1st Place)<br><br>🎓  software engineering and full-stack development.<br><br>💡 Currently exploring scalable SaaS architecture, analytics systems, AI integrations, and modern web technologies.
 
 
 ## 🌐 Socials:
