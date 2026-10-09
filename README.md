@@ -4,7 +4,7 @@ Full-stack engineer in Portland, OR. I build lead-intelligence and AI-powered pr
 
 ## What I'm building
 
-**[Jellyhook](https://jellyhook.com)** — lead-intelligence platform (solo build, live)
+**[Jellyhook](https://jellyhook.com)** - lead-intelligence platform (solo build, live)
 - First-party tracker and API-key-authenticated ingestion with idempotent, deduplicated event handling
 - Typed query engine that uses Postgres `EXPLAIN` estimates to reject over-budget queries before they run
 - Session timelines that show the path each visitor took to a form submission
@@ -13,9 +13,9 @@ Full-stack engineer in Portland, OR. I build lead-intelligence and AI-powered pr
 
 ## Other work
 
-- **AI document Q&A** — retrieval pipeline (chunking, embeddings, pgvector) that answers only from approved documents, with every answer cited to its source page
-- **AI 3D scene editor** — natural-language prompts converted to validated add/edit/delete operations through a custom DSL and parser; server-side validation keeps malformed model output from changing state
-- **Voice tutoring app** — real-time AI voice sessions built with Vapi, Next.js, and Supabase
+- **AI document Q&A** - retrieval pipeline (chunking, embeddings, pgvector) that answers only from approved documents, with every answer cited to its source page
+- **AI 3D scene editor** - natural-language prompts converted to validated add/edit/delete operations through a custom DSL and parser; server-side validation keeps malformed model output from changing state
+- **Voice tutoring app** - real-time AI voice sessions built with Vapi, Next.js, and Supabase
 
 ## Stack
 
