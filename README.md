@@ -1,5 +1,44 @@
-# 💫 About Me:
-🚀 Frontend-leaning Full Stack Developer focused on building SaaS applications with TypeScript, React, Next.js, Node.js, and PostgreSQL.<br><br>📊 Built a Lead Intelligence Platform featuring analytics dashboards, visitor tracking, authentication, billing systems, and API integrations.<br><br>🤖 Developed AI-powered applications including voice mentor platforms with real-time conversational tutoring.<br><br>🏆 TSA Nevada State Webmaster Champion (1st Place)<br><br>🎓 software engineering and full-stack development.<br><br>💡 Currently exploring scalable SaaS architecture, analytics systems, AI integrations, and modern web technologies.<br> <br>💬 Currently learning topics on AWS( ECS, EKS, ...), Kubernetes, and advanced System Design Concepts<br><br>⚡Fun Fact: I have spent over a decade playing soccer, including 2years at Varsity level, so I know a thing or two about teamwork and high-pressure situations.<br>
+# Joshua Zerihun
+
+Full-stack engineer in Portland, OR. I build lead-intelligence and AI-powered products, from the data pipeline to the interface. Self-taught, building since 2024.
+
+## What I'm building
+
+**[Jellyhook](https://jellyhook.com)** — lead-intelligence platform (solo build, live)
+- First-party tracker and API-key-authenticated ingestion with idempotent, deduplicated event handling
+- Typed query engine that uses Postgres `EXPLAIN` estimates to reject over-budget queries before they run
+- Session timelines that show the path each visitor took to a form submission
+- Multi-tenant access (roles, per-site API keys, signed webhooks) and billing sync
+- Stack: TypeScript, Next.js, Postgres/Supabase, Clerk, Vercel
+
+## Other work
+
+- **AI document Q&A** — retrieval pipeline (chunking, embeddings, pgvector) that answers only from approved documents, with every answer cited to its source page
+- **AI 3D scene editor** — natural-language prompts converted to validated add/edit/delete operations through a custom DSL and parser; server-side validation keeps malformed model output from changing state
+- **Voice tutoring app** — real-time AI voice sessions built with Vapi, Next.js, and Supabase
+
+## Stack
+
+**Languages:** TypeScript, JavaScript, SQL, Java
+**Frontend:** React, Next.js, Tailwind CSS, Three.js / React Three Fiber
+**Backend and data:** Node.js, Express, PostgreSQL, Supabase, MongoDB, pgvector
+**Tools:** Git, Docker, Vercel, Claude Code (spec-driven development)
+
+## Currently learning
+
+AWS (ECS, EKS), Kubernetes, and system design at scale.
+
+## Recognition
+
+TSA Webmasters 2026 Nevada Competition, 1st place
+
+## Beyond code
+
+Over a decade of soccer, including two years at varsity level. It taught me how to work in a team under pressure.
+
+## Contact
+
+[Email](mailto:joshuazerihun9922@gmail.com) · [LinkedIn](#) · [Portfolio](#)<br>
 
 
 ## 🌐 Socials:
